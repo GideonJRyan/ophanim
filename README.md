@@ -1,1 +1,1 @@
-# ophanim
+_Ophanim: A Novel Neural Architecture_
